@@ -1,0 +1,5 @@
+To run the .csv to .xml converter:
+
+  Download ACity.java, CityDataCreator.java, CityData.csv and CityData.xml
+  Run CityDataCreator.java class file
+
